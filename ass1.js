@@ -1,0 +1,1 @@
+// create a Pallindrome string if the string. tThe string should true if used
