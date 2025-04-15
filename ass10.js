@@ -63,7 +63,7 @@ function getTotalAmount() {
   }
 
   console.log("Total amount:", total);
-  // return total;
+ 
 }
 
 getTotalAmount()
